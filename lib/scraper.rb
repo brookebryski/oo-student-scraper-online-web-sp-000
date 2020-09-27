@@ -41,4 +41,3 @@ profile.css("div.main-wrapper.profile .social-icon-container a").each do |social
    student_profile
  end
 end
-
